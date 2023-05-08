@@ -57,7 +57,7 @@ try:
     elif make_model == "Audi A1":
         st.image(Image.open("Cars/Audi_A1.jpg"))
     elif make_model == "Opel Insignia":
-        st.image(Image.open("Cars/Opel_Insignia.jpg"))
+        st.image(Image.open("Cars/Opel_Insignia.png"))
     elif make_model == "Opel Astra":
         st.image(Image.open("Cars/Opel_Astra.jpg"))
     elif make_model == "Opel Corsa":
